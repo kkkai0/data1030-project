@@ -1,0 +1,4 @@
+.Data1030_final
+.ipynb_checkpoints
+.env
+

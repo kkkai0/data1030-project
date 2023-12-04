@@ -8,7 +8,7 @@ Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Shap
 
 # Author
 
-Zhikai_Zhao (zhikai_zhao@brown.edu)
+Zhikai Zhao (zhikai_zhao@brown.edu)
 
 # License
 
